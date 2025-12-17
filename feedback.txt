@@ -1,0 +1,36 @@
+# Example
+# def doSomething():
+#   // my logic
+#   return var
+
+# Example usage:
+# out = doSomething()
+# displayGUI(out)
+# displayCLI(out)
+
+# def doSomething():
+#   // my logic
+#   return f"my string"
+
+# Example usage
+# out = doSomething()
+
+# Logic
+#   stretch()
+#   workout()
+#   ...
+# Utility
+# GUI
+#   from logic import
+#   createWindow()
+#   ...
+# CLI
+#   import logic
+#   def outputStretch()
+
+# main.py
+# import logic
+# import GUI
+# import CLI
+# def main():
+#   # run program
